@@ -2,43 +2,47 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:050000,45:180509,100:3A0710&text=NOTASH01&fontColor=F2DADA&fontSize=58&fontAlignY=48&animation=fadeIn" width="100%" alt="NotAsh01 profile banner" />
+  <img src="assets/profile-banner.svg" width="100%" alt="NotAsh01 — From the void, I build" />
 
-  <p><strong>Developer · AI · Automation</strong></p>
-  <p>Building projects, experimenting with ideas, and learning along the way.</p>
+  <p>
+    <strong>Developer · AI · Automation</strong>
+  </p>
+  <p>Building software, exploring systems, and turning ideas into working projects.</p>
 
-  <a href="https://github.com/NotAsh01?tab=repositories">Repositories</a>
-  ·
-  <a href="https://github.com/NotAsh01?tab=followers">Followers</a>
+  <a href="https://github.com/NotAsh01?tab=repositories">REPOSITORIES</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/NotAsh01?tab=projects">PROJECTS</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/NotAsh01?tab=followers">FOLLOW</a>
 
 </div>
 
 ---
 
-### About
+### / ABOUT
 
-I'm interested in software development, AI tools, automation, and Minecraft projects. Most of my time goes into building things, testing ideas, and figuring out how to make them better.
+I'm interested in software development, AI, automation, and Minecraft systems. I like working across different parts of a project — from the first idea to the details that make it work.
 
-### Projects
+### / SELECTED WORK
 
-| Project | Description |
-| --- | --- |
-| [NOCTRYX](https://github.com/NotAsh01/jarvis-ai) | An AI assistant and automation project. |
-| [NOIR VOID](https://github.com/NotAsh01/noir-void-site) | A dark, minimal website project. |
-| [HORI SKYBLOCK](https://github.com/NotAsh01/Hori_Skyblock) | Minecraft Skyblock development. |
-| [SKYBLOCK](https://github.com/NotAsh01/Skyblock) | Another Minecraft-related project. |
+| Project | What it is |
+|:--|:--|
+| **[NOCTRYX](https://github.com/NotAsh01/jarvis-ai)** | An AI assistant and automation project. |
+| **[NOIR VOID](https://github.com/NotAsh01/noir-void-site)** | A dark, minimal web experience. |
+| **[HORI SKYBLOCK](https://github.com/NotAsh01/Hori_Skyblock)** | Minecraft Skyblock development. |
+| **[SKYBLOCK](https://github.com/NotAsh01/Skyblock)** | Experiments and development for Minecraft. |
 
-### Tech
+### / TOOLKIT
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Git, GitHub and VS Code" />
 </div>
 
-### GitHub
+### / GITHUB ACTIVITY
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NotAsh01&show_icons=true&hide_border=true&bg_color=0B0507&title_color=D9A0A8&text_color=BBA9AC&icon_color=9B2638" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAsh01&layout=compact&hide_border=true&bg_color=0B0507&title_color=D9A0A8&text_color=BBA9AC" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NotAsh01&show_icons=true&hide_border=true&rank_icon=github&bg_color=080608&title_color=C98B99&text_color=C8B9BD&icon_color=9B3D53" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAsh01&layout=compact&hide_border=true&bg_color=080608&title_color=C98B99&text_color=C8B9BD" alt="Most used languages" />
 </div>
 
 <div align="center">
