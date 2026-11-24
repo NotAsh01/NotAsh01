@@ -4,9 +4,7 @@
 
   <img src="assets/profile-banner.svg" width="100%" alt="NotAsh01 — From the void, I build" />
 
-  <p>
-    <strong>Developer · AI · Automation</strong>
-  </p>
+  <p><strong>Developer · AI · Automation · Minecraft Systems</strong></p>
   <p>Building software, exploring systems, and turning ideas into working projects.</p>
 
   <a href="https://github.com/NotAsh01?tab=repositories">REPOSITORIES</a>
@@ -21,16 +19,16 @@
 
 ### / ABOUT
 
-I'm interested in software development, AI, automation, and Minecraft systems. I like working across different parts of a project — from the first idea to the details that make it work.
+I'm interested in software development, AI, automation, and Minecraft systems. I enjoy working across a project — from its architecture and core features to the details that shape the final experience.
 
 ### / SELECTED WORK
 
-| Project | What it is |
-|:--|:--|
-| **[NOCTRYX](https://github.com/NotAsh01/jarvis-ai)** | An AI assistant and automation project. |
-| **[NOIR VOID](https://github.com/NotAsh01/noir-void-site)** | A dark, minimal web experience. |
-| **[HORI SKYBLOCK](https://github.com/NotAsh01/Hori_Skyblock)** | Minecraft Skyblock development. |
-| **[SKYBLOCK](https://github.com/NotAsh01/Skyblock)** | Experiments and development for Minecraft. |
+| Project | Focus | Visibility |
+|:--|:--|:--|
+| **NOCTRYX AI** | Personal AI workspace, research and controlled automation. | Private |
+| **NOCTRYX** | Independent Minecraft SkyBlock remake and game systems. | Private |
+| **HORI SKYBLOCK** | Classic-era Minecraft SkyBlock recreation. | Private |
+| **[NOIR // VOID](https://github.com/NotAsh01/noir-void-site)** | Dark, minimal web experience. | Public |
 
 ### / TOOLKIT
 
